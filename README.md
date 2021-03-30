@@ -69,6 +69,8 @@ Simple random search provides a competitive approach to reinforcement learning
 ## Author
 
 * **Victor Omondi**
+* **Allan Kiplangat** 
+* **Purity Nyakundi**
 
 
 ## License
