@@ -70,9 +70,9 @@ Simple random search provides a competitive approach to reinforcement learning
 
 * **Victor Omondi**
 * **Allan Kiplangat** 
+* **Geoffery Obara**
 * **Bruce Felix**
 * **Purity Nyakundi**
-
 
 ## License
 
